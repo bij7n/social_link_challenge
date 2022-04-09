@@ -1,0 +1,48 @@
+@font-face {
+  font-family: IRANYekan;
+  font-style: normal;
+  font-weight: 200;
+  src: url('./IranYekanFN/IRANYekanThinFaNum.ttf') format('truetype');
+}
+@font-face {
+  font-family: IRANYekan;
+  font-style: normal;
+  font-weight: 300;
+  src: url('./IranYekanFN/IRANYekanLightFaNum.ttf') format('truetype');
+}
+@font-face {
+  font-family: IRANYekan;
+  font-style: normal;
+  font-weight: normal;
+  src: url('./IranYekanFN/IRANYekanRegularFaNum.ttf') format('truetype');
+}
+@font-face {
+  font-family: IRANYekan;
+  font-style: normal;
+  font-weight: 500;
+  src: url('./IranYekanFN/IRANYekanMediumFaNum.ttf') format('truetype');
+}
+@font-face {
+  font-family: IRANYekan;
+  font-style: normal;
+  font-weight: 600;
+  src: url('./IranYekanFN/IRANYekanBoldFaNum.ttf') format('truetype');
+}
+@font-face {
+  font-family: IRANYekan;
+  font-style: normal;
+  font-weight: bold;
+  src: url('./IranYekanFN/IRANYekanExtraBoldFaNum.ttf') format('truetype');
+}
+@font-face {
+  font-family: IRANYekan;
+  font-style: normal;
+  font-weight: 800;
+  src: url('./IranYekanFN/IRANYekanBlackFaNum.ttf') format('truetype');
+}
+@font-face {
+  font-family: IRANYekan;
+  font-style: normal;
+  font-weight: 900;
+  src: url('./IranYekanFN/IRANYekanExtraBlackFaNum.ttf') format('truetype');
+}

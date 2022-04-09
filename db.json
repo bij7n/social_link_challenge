@@ -1,0 +1,22 @@
+{
+  "socials": [
+    {
+      "type": "3",
+      "social_id": "@bijan",
+      "social_link": "https://t.me/bij7n",
+      "id": 1
+    },
+    {
+      "type": "5",
+      "social_id": "bij7n",
+      "social_link": "https://linkedin.com/",
+      "id": 2
+    },
+    {
+      "type": "4",
+      "social_id": "@bij7n",
+      "social_link": "https://twitter.com/bij7n",
+      "id": 3
+    }
+  ]
+}
